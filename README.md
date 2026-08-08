@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=A6249D&center=true&vCenter=true&width=650&lines=Hola%2C+soy+Eliseo+Cabello+%F0%9F%91%8B;Estudiante+de+Ingenier%C3%ADa+de+Sistemas+-+UNI;Frontend+Developer+%40+UniVia+%2F+LEAD+UNI;Explorando+IA%2C+Agentes+y+Buenas+Pr%C3%A1cticas" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=A6249D&center=true&vCenter=true&width=650&lines=Hola%2C+soy+Eliseo+Cabello+%F0%9F%91%8B;Estudiante+de+Ingenier%C3%ADa+de+Sistemas+-+UNI;Software+Developer+%40+UniVia+%2F+LEAD+UNI;Explorando+IA%2C+Agentes+y+Buenas+Pr%C3%A1cticas" alt="Typing SVG" />
 
 ### 🎓 Estudiante de Ingeniería de Sistemas — Universidad Nacional de Ingeniería (UNI)
 *Apasionado por el desarrollo de software, la arquitectura frontend y la integración de soluciones con Inteligencia Artificial.*
@@ -19,7 +19,7 @@
 
 ```typescript
 const eliseo = {
-  role: "Frontend Developer & Estudiante de Ing. de Sistemas",
+  role: "Backend Developer & Estudiante de Ing. de Sistemas",
   university: "Universidad Nacional de Ingeniería (UNI)",
   currentProject: "UniVia — Plataforma de Gestión Académica (LEAD UNI)",
   focus: ["Desarrollo de software", "Agentes de IA", "Arquitectura frontend", "Buenas prácticas"],

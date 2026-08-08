@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=A6249D&center=true&vCenter=true&width=650&lines=Hola%2C+soy+Eliseo+Cabello+%F0%9F%91%8B;Estudiante+de+Ingenier%C3%ADa+de+Sistemas+-+UNI;Software+Developer+%40+UniVia+%2F+LEAD+UNI;Explorando+IA%2C+Agentes+y+Buenas+Pr%C3%A1cticas" alt="Typing SVG" />
 
 ### 🎓 Estudiante de Ingeniería de Sistemas — Universidad Nacional de Ingeniería (UNI)
-*Apasionado por el desarrollo de software, la arquitectura frontend y la integración de soluciones con Inteligencia Artificial.*
+*Apasionado por el desarrollo de software, los agentes de IA, la arquitectura backend, el scraping, las bases de datos y las buenas prácticas de ingeniería.*
 
 <br/>
 
@@ -22,7 +22,7 @@ const eliseo = {
   role: "Backend Developer & Estudiante de Ing. de Sistemas",
   university: "Universidad Nacional de Ingeniería (UNI)",
   currentProject: "UniVia — Plataforma de Gestión Académica (LEAD UNI)",
-  focus: ["Desarrollo de software", "Agentes de IA", "Arquitectura frontend", "Buenas prácticas"],
+  focus: ["Desarrollo de software", "Agentes de IA", "Arquitectura backend", "Buenas prácticas"],
   currentlyLearning: "Nuevas herramientas, frameworks y arquitecturas",
   funFact: "Creo que la mejor UI es la que no necesita explicación"
 };
@@ -84,7 +84,7 @@ const eliseo = {
 ### UniVia — Plataforma de Gestión Académica
 **Organización:** LEAD UNI
 
-Plataforma para la gestión académica universitaria. Como desarrollador frontend, lidero la construcción del Dashboard, la Malla Curricular y la Ruta de Aprendizaje, trabajando con un sistema de diseño propio y en coordinación con un equipo multidisciplinario.
+Plataforma para la gestión académica universitaria. Colaboro en el desarrollo de funcionalidades clave como el Dashboard, la Malla Curricular y la Ruta de Aprendizaje, adaptándome a los requerimientos del equipo y trabajando con un sistema de diseño propio.
 
 `Next.js 15` `TypeScript` `TailwindCSS` `Shadcn/UI` `Supabase`
 

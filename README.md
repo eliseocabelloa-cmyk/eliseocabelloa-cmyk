@@ -26,13 +26,14 @@ Estudiante de **Ingeniería de Sistemas en la UNI**. Me interesan el desarrollo 
 <tr>
 <td width="50%" valign="top">
 
-### 🎓 UniVia
+### 🎓 [UniVia](https://github.com/leaduni/univia-project)
 
 Plataforma de gestión académica universitaria de **LEAD UNI**. Colaboro en el Dashboard, la Malla Curricular y la Ruta de Aprendizaje, sobre un sistema de diseño propio.
 
 **Por qué importa:** centraliza la vida académica del estudiante en una sola interfaz clara.
 
 ![stack](https://img.shields.io/badge/stack-Next.js_·_TypeScript_·_Supabase-38bdf8?style=flat-square&labelColor=555)
+![repo](https://img.shields.io/badge/repo-univia--project-38bdf8?style=flat-square&labelColor=555)
 ![org](https://img.shields.io/badge/org-LEAD_UNI-8b5cf6?style=flat-square&labelColor=555)
 
 </td>
@@ -40,7 +41,7 @@ Plataforma de gestión académica universitaria de **LEAD UNI**. Colaboro en el 
 
 ### 🚀 [Hult Prize UNI · Plataforma web](https://github.com/hultprize-uni/hp-uni-platform)
 
-Sitio web de **Hult Prize UNI**, desarrollado en equipo. Apoyo en la parte de **frontend**.
+**Hult Prize** es una plataforma internacional que impulsa a estudiantes universitarios a convertir ideas en startups con impacto social. Desarrollamos en equipo el sitio web de **Hult Prize UNI** y apoyo en la parte de **frontend**.
 
 **Por qué importa:** es la cara pública del programa para estudiantes y participantes.
 
@@ -54,12 +55,13 @@ Sitio web de **Hult Prize UNI**, desarrollado en equipo. Apoyo en la parte de **
 
 ### 📊 [DATAFEST · BCP](https://github.com/eliseocabelloa-cmyk/DATAFEST)
 
-Mi participación en el **Datafest del BCP**, donde apliqué conocimientos de **machine learning** sobre datos reales.
+Pipeline de **machine learning** para estimar la probabilidad de conversión de clientes en el horizonte objetivo del Datathon. Integra ingeniería de variables, validación temporal *walk-forward*, optimización de hiperparámetros con **Optuna** y un ensamble entre **LightGBM** y **CatBoost**.
 
-**Por qué importa:** muestra mi trabajo con datos, modelado y análisis en un contexto competitivo.
+**Por qué importa:** muestra mi trabajo de punta a punta con datos, validación y modelado en un contexto competitivo.
 
-![tema](https://img.shields.io/badge/tema-machine_learning-8b5cf6?style=flat-square&labelColor=555)
-![evento](https://img.shields.io/badge/evento-Datafest_BCP-38bdf8?style=flat-square&labelColor=555)
+![ensamble](https://img.shields.io/badge/ensamble-LightGBM_+_CatBoost-8b5cf6?style=flat-square&labelColor=555)
+![tuning](https://img.shields.io/badge/tuning-Optuna-38bdf8?style=flat-square&labelColor=555)
+![evento](https://img.shields.io/badge/evento-Datafest_BCP-34d399?style=flat-square&labelColor=555)
 
 </td>
 <td width="50%" valign="top">
@@ -95,7 +97,7 @@ Solución web para la gestión operativa y la prevención de accidentes en astil
 |---|---|
 | **Frontend** | Next.js · React · TypeScript · TailwindCSS · Shadcn/UI |
 | **Backend & datos** | Node.js · Supabase · PostgreSQL · SQL |
-| **Machine learning** | Python · análisis de datos · modelos predictivos |
+| **Machine learning** | Python · LightGBM · CatBoost · Optuna · validación walk-forward |
 | **DevOps** | Docker · Git · GitHub |
 
 </div>

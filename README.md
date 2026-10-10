@@ -16,7 +16,7 @@
 
 Estudiante de **Ingeniería de Sistemas en la UNI**. Me interesan el desarrollo de software, los agentes de IA, el machine learning, las bases de datos y las buenas prácticas de ingeniería. Creo que la mejor UI es la que no necesita explicación.
 
-- 🔭 **Ahora:** construyendo **UniVia**, plataforma de gestión académica de **LEAD UNI**, y la web de **Hult Prize UNI**.
+- 🔭 **Ahora:** construyendo **UniVia** (LEAD UNI), la web de **Hult Prize UNI** y **SACU**.
 - 🌱 **Aprendiendo:** nuevas herramientas, frameworks y arquitecturas.
 - 🤝 **Abierto a:** colaborar en proyectos de software, datos e IA.
 
@@ -25,6 +25,7 @@ Estudiante de **Ingeniería de Sistemas en la UNI**. Me interesan el desarrollo 
 <table>
 <tr>
 <td width="50%" valign="top">
+
 
 ### 🎓 [UniVia](https://github.com/leaduni/univia-project)
 
@@ -36,8 +37,10 @@ Plataforma de gestión académica universitaria de **LEAD UNI**. Colaboro en el 
 ![repo](https://img.shields.io/badge/repo-univia--project-38bdf8?style=flat-square&labelColor=555)
 ![org](https://img.shields.io/badge/org-LEAD_UNI-8b5cf6?style=flat-square&labelColor=555)
 
+
 </td>
 <td width="50%" valign="top">
+
 
 ### 🚀 [Hult Prize UNI · Plataforma web](https://github.com/hultprize-uni/hp-uni-platform)
 
@@ -48,10 +51,24 @@ Plataforma de gestión académica universitaria de **LEAD UNI**. Colaboro en el 
 ![repo](https://img.shields.io/badge/repo-hp--uni--platform-38bdf8?style=flat-square&labelColor=555)
 ![rol](https://img.shields.io/badge/rol-frontend-34d399?style=flat-square&labelColor=555)
 
+
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
+
+### 🗂️ [SACU · Sistema Académico Unificado](https://github.com/JoseRojas-a11y/SACU)
+
+Solución web moderna que centraliza y optimiza la vida académica de los estudiantes. Combina un repositorio digital de materiales, un sistema interactivo de ranking y evaluación de profesores, y acceso rápido a herramientas de generación de horarios. Fue el último proyecto al que me sumé.
+
+**Por qué importa:** reúne en un solo lugar materiales, opiniones sobre profesores y horarios.
+
+![repo](https://img.shields.io/badge/repo-SACU-38bdf8?style=flat-square&labelColor=555)
+![tipo](https://img.shields.io/badge/tipo-plataforma_web-8b5cf6?style=flat-square&labelColor=555)
+
+</td>
+<td width="50%" valign="top">
+
 
 ### 📊 [DATAFEST · BCP](https://github.com/eliseocabelloa-cmyk/DATAFEST)
 
@@ -63,8 +80,24 @@ Pipeline de **machine learning** para estimar la probabilidad de conversión de 
 ![tuning](https://img.shields.io/badge/tuning-Optuna-38bdf8?style=flat-square&labelColor=555)
 ![evento](https://img.shields.io/badge/evento-Datafest_BCP-34d399?style=flat-square&labelColor=555)
 
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧭 [SkillSync Navigator · UNI](https://github.com/eliseocabelloa-cmyk/skillsync-navigator)
+
+Solución de ingeniería que automatiza el ciclo de vida del aprendizaje en programación para estudiantes de la UNI. Resuelve la fricción entre resolver ejercicios técnicos y gestionar las evidencias en control de versiones (GitHub), como un puente de sincronización automatizada.
+
+**Por qué importa:** automatiza una tarea repetitiva del estudiante y fue uno de mis primeros proyectos personales.
+
+![repo](https://img.shields.io/badge/repo-skillsync--navigator-38bdf8?style=flat-square&labelColor=555)
+![tipo](https://img.shields.io/badge/tipo-proyecto_personal-34d399?style=flat-square&labelColor=555)
+
 </td>
 <td width="50%" valign="top">
+
 
 ### ⚓ Gestión operativa en astilleros
 
@@ -73,6 +106,7 @@ Solución web para la gestión operativa y la prevención de accidentes en astil
 **Por qué importa:** convierte datos de operación en alertas que previenen incidentes.
 
 ![premio](https://img.shields.io/badge/Feria_de_Proyectos-2.º_puesto-34d399?style=flat-square&labelColor=555)
+
 
 </td>
 </tr>
@@ -106,7 +140,7 @@ Solución web para la gestión operativa y la prevención de accidentes en astil
 
 <div align="center">
 
-<img src="./snapshot.svg" alt="Snapshot público de GitHub" width="100%" />
+<img src="./snapshot.svg?v=2" alt="Snapshot público de GitHub" width="100%" />
 
 <br/>
 
